@@ -63,6 +63,17 @@ Ctrl+L --> dzēst ekrānu
     Use whoami to find out who you are logged in as or who is logged into an unmanned Linux terminal.  
     
   **Q** -quit 
+  
+  **TOUCH**
+    The touch command is a standard command used in UNIX/Linux operating system which is used to create, change and modify timestamps of a file. 
+    
+  **CP**
+    Copy from source to dest
+    
+  **MV**
+    command for moving and renaming files. 
+    
+  
 
 
 
