@@ -1,0 +1,89 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  VirtualBox --startvm XP
+    4  whoami
+    5  ls -l
+    6  touch aaa.txt
+    7  ls -l
+    8  downolads
+    9  uwu
+   10  touch aaa.txt
+   11  ls -l
+   12  touch  2019190910397aaa.txt
+   13  ls -l
+   14  touch -c -t 2019190910397aaa.txt
+   15  touch -c -t 20191909aaa.txt
+   16  echo Hello World
+   17  echo Mow >mow.txt
+   18  ls -l
+   19  cat mow.txt
+   20  laod
+   21  echo Mow Wom >mow.txt
+   22  cat mow.txt
+   23  ls -l
+   24  echo Mow Wom >mow.txt
+   25  echo Mow Wom Snep  >>mow.txt
+   26  ls -l
+   27  cat mow.txt
+   28  echo -e "Mow\ Wom Snep"  >>mow.txt
+   29  cat mow.txt
+   30  echo -e "Mow\Wom Snep" >> mow.txt
+   31  cat mow.txt
+   32  echo -e "Mow\Wom Snep" >> mow.txt
+   33  echo -e "Mow\vWom Snep" >> mow.txt
+   34  cat mow.txt
+   35  ls -l /bin/bash
+   36  ls -l /bin/ls
+   37  cat /bin/ls
+   38  cat mow.txt
+   39  cat mow.txt > mowmow1.txt
+   40  ls -l
+   41  cat mowmow1.txt
+   42  cp mow.txt
+   43  ls -l *.txt
+   44  la -l *.deb
+   45  cd
+   46  m`
+
+
+
+
+
+
+
+
+
+
+
+
+dir
+
+r
+r 
+m'`
+   47  cdcd/
+   48  cd/
+   49  cd /
+   50  pwd
+   51  mv ~/mowmow1.txt ~/Music/d10.tx
+   52  cd
+   53  la
+   54  cat music
+   55  ls -l Music/
+   56  cat /home/user/Music/d10.tx
+   57  ls -l
+   58  .mv mow.txt e7.xtx
+   59  mv mow.txt e7.xtx
+   60  ls -l
+   61  cat e7.xtx
+   62  ls -l *.txt
+   63  rm *.*xt*
+   64  ls-l
+   65  ls -l
+   66  rm ./Music/d10.tx
+   67  ls ./Music
+   68  run 1.deb
+   69  load 1.deb
+   70  nload 1.deb
+   71  history
+   72  history >history20191609.txt
