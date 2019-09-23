@@ -10,3 +10,49 @@
    10  chmod 755 git-upload
    11  history
    12  history > history_20190923.txt
+   13  ls -l
+   14  nload git-upload
+   15  re git-upload
+   16  ./git-upload
+   17  ./git-upload a b
+   18  ./git-upload 20190923_15_15
+   19  mkdir darbi
+   20  cd darbi
+   21  nano elementary.c
+   22  ls -l
+   23  ---------+++++++
+   24  ---------+++++++ckoc
+   25  gcc elementary.c
+   26  ls -l
+   27  nano elementary.c
+   28  gcc elementary.c -o prg1
+   29  +
+   30  ls -l
+   31  prg1
+   32  ./prg1
+   33  ./a.out
+   34  nano elementary.c
+   35  ls -l
+   36  gcc elementary.c -o prg2
+   37  ./prg2
+   38  nano elementary.c
+   39  gcc elementary.c -o prg3
+   40  cp elementary.c hello.c
+   41  nano hello.c
+   42  gcc hello.c prg4
+   43  nano hello.c
+   44  gcc hello.c prg4
+   45  gcc hello.c prg5
+   46  nano hello.c
+   47  gcc hello.c prg5
+   48  nano hello.c
+   49  gcc hello.c prg5
+   50  nano hello.c
+   51  gcc hello.c -o prg5
+   52  ./prg5
+   53  nano hello.c
+   54  gcc hello.c -o prg6
+   55  ./prg6
+   56  cd..
+   57  cd ..
+   58  history >history_20190923.txt
