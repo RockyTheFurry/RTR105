@@ -3,6 +3,7 @@
 if [ $# == 1 ]
 then
 git config --global user.email denissadovskij@mail.ru
+git config --global user.name RockyTheFurry
 git add .
 #git commit -m "20171912_09_55"
 git commit -m $1

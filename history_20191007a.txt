@@ -1,0 +1,107 @@
+    1  nano
+    2  nano h.c
+    3  gcc h.c -o pdr1
+    4  ls -l
+    5  nano first.c
+    6  gcc first.c -o prgr
+    7  gcc -o first.c prfg
+    8  nano serenada.c
+    9  gcc serenada.c -o prdg
+   10  nano serenada.c
+   11  gcc serenada.c -o prdg
+   12  nano rrr.c
+   13  gcc rrr.c -o 12345
+   14  ./12345
+   15  nano hhh.c
+   16  gcc hhh.c -o Mow
+   17  ./Mow
+   18  ls -l
+   19  pwd
+   20  /home
+   21  c..
+   22  git clone https://github.com/RockyTheFurry/RTR105/
+   23  sudo apt-get install git
+   24  git clone https://github.com/RockyTheFurry/RTR105/
+   25  ls-l
+   26  ls -l
+   27  cd RTR105
+   28  PWD
+   29  pwd
+   30  cd darbi
+   31  ls -l
+   32  mkdir darbi
+   33  ls -l
+   34  mkdir P05
+   35  cd P05
+   36  nano 01.c
+   37  ssh -X x191REB152@213.175.92.22
+   38  nano 01.c
+   39  gcc 01.c -o prd
+   40  ./prd
+   41  nano 01.c
+   42  gcc 01.c -o prd1
+   43  ./prd1
+   44  nano 01.c
+   45  gcc 01.c -o prd2
+   46  ./prd2
+   47  nano 01.c
+   48  nano 02.c
+   49  nano 01.c
+   50  gcc 01.c -o phy
+   51  ./phy
+   52  nano 01.c
+   53  gcc 01.c -o tyu
+   54  ./tyu
+   55  nano 02.c
+   56  gcc 02.c -o 243
+   57  ./243
+   58  ls -l
+   59  git clone http://github.com/RockyTheFurry/RT105
+   60  git clone https://github.com/RockyTheFurry/RT105
+   61  git clone https://github.com/RockyTheFurry/RTR105
+   62  ls -l
+   63  rm -rf RTR105
+   64  git clone https://github.com/RockyTheFurry/RTR105
+   65  nano clas06
+   66  gcc clas06 -o clas06gnu
+   67  gcc -o clas06 clas06gnu
+   68  nano clas06
+   69  gcc clas06.c -o gnuclas06
+   70  ./gnuclas06
+   71  nano clas06_V2.c
+   72  gcc clas06_V2.c -o clas06_V2gnu
+   73  ./clas06_V2gnu
+   74  nano clas06_V2.c
+   75  gcc clas06_V2.c -o clas06_V2gnu2
+   76  ./clas06_V2gnu2
+   77  nano clas06_V2.c
+   78  gcc clas06_V2.c -o clas0
+   79  ./clas0
+   80  nano clas06_V2.c
+   81  gcc clas06_V2.c -o clas1
+   82  ./clas1
+   83  nano clas06_V2.c
+   84  gcc --version
+   85  g++ --version
+   86  g++
+   87  sudo gcc update
+   88  sudo apt-get install gcc
+   89  gcc --version
+   90  nano clas06_V2.c
+   91  gcc clas06_V2.c -o clas2
+   92  ./clas2
+   93  nano clas06_V2.c
+   94  gcc clas06_V2.c -o clas3
+   95  ./clas3
+   96  ls-l
+   97  ls -l
+   98  color 2
+   99  gcc --version
+  100  sudo apt install manpages-dev
+  101  gcc --version
+  102  sudo apt install build-essential
+  103  sudo apt install manpages-dev
+  104  gcc --version
+  105  g++ --version
+  106  history
+  107  history>07102019
